@@ -1,4 +1,4 @@
-# Sudoku-Solver-App
+# Sudoku-Solver-App.
 
 A Kivy based Sudoku game with a built-in solver.
 
